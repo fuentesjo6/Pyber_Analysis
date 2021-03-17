@@ -6,7 +6,7 @@ Perform exploratory analysis on large data CSV files and create several visualiz
 
 ### Results 
 
-
+![]DF_of_cities.png
 
   - Rural cities have the lowest total rides but the highest average fare per ride ($34.62) and highest average fare per driver ($55.49).
   - Suburban cities have far less drivers (625) than urban cities (2405) do yet their average fare is about 26% higher.
